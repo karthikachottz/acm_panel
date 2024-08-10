@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641129265202",
+    "project_id": "login-ddae7",
+    "storage_bucket": "login-ddae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641129265202:android:184bbd45276e56fde1e42b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo6D8lrHXnzFzkjm71oJpPG8ZF_PcKy88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
